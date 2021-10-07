@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "BoT-Chromosome",
   "version": "0.0.1",
-  "description": "bitch-boot",
+  "description": "bot-chm",
   "main": "node index",
   "directories": {
     "lib": "lib"
