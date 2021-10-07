@@ -98,9 +98,9 @@ offline = false
 publik = false
 waktuafk = 'Nothing'
 alasanafk = 'Nothing'
-NamaBot = settings.NamaBot
-NomorOwner = settings.NomorOwner
-NamaOwner = settings.NamaOwner
+NamaBot = settings.BoT-Chromosome
+NomorOwner = settings.6281804832728
+NamaOwner = settings.Ajur
 multi = true
 nopref = false
 
